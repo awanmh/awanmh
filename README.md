@@ -16,7 +16,7 @@
 ---
 
 ## 🎓 Education
-- 🎓 **Telkom University** — *Informatics (Semester 4)*
+- 🎓 **Telkom University** — *Informatics (Semester 5)*
 
 ---
 
