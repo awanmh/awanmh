@@ -66,7 +66,6 @@
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="mailto:setiawanmuhammad3@gmail.com"><img src="https://img.shields.io/badge/Email-FFD200?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/setiawan-muhammad"><img src="https://img.shields.io/badge/LinkedIn-F7971E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/awanmh"><img src="https://img.shields.io/badge/GitHub-FFD200?style=for-the-badge&logo=github&logoColor=black" /></a>
   <a href="https://www.instagram.com/aawanmh_/"><img src="https://img.shields.io/badge/Instagram-F7971E?style=for-the-badge&logo=instagram&logoColor=white" /></a>
