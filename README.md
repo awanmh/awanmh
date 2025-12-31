@@ -61,35 +61,15 @@ I strongly believe in **learning by building**, experimenting, and breaking thin
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌗 GitHub Metrics & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awanmh&theme=juicyfresh&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=awanmh&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awanmh&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
----
-
-## 🌗 Dark / Light Mode Friendly Stats
-
 <p align="center">
-
-  <!-- Stats -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=awanmh&show_icons=true&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=awanmh&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=awanmh&show_icons=true&theme=default&hide_border=true" height="165"/>
-  </picture>
-
-  <!-- Languages -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=awanmh&layout=compact&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=awanmh&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanmh&layout=compact&theme=default&hide_border=true" height="165"/>
-  </picture>
-
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awanmh&theme=radical&hide_border=true" height="165"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awanmh&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
