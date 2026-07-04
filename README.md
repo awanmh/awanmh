@@ -22,14 +22,14 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/awanmh/velox-quant-engine">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=velox-quant-engine&theme=radical&show_owner=true" alt="Velox Quant Engine" />
+          <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=awanmh&repo=velox-quant-engine&theme=radical&show_owner=true" alt="Velox Quant Engine" />
         </a>
         <br />
         <i>High-performance quantitative trading engine.</i>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/awanmh/veritas-rag-platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=veritas-rag-platform&theme=radical&show_owner=true" alt="Veritas RAG Platform" />
+          <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=awanmh&repo=veritas-rag-platform&theme=radical&show_owner=true" alt="Veritas RAG Platform" />
         </a>
         <br />
         <i>Advanced RAG (Retrieval-Augmented Generation) Platform.</i>
@@ -38,14 +38,14 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/awanmh/Aurix-engine">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=Aurix-engine&theme=radical&show_owner=true" alt="Aurix Engine" />
+          <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=awanmh&repo=Aurix-engine&theme=radical&show_owner=true" alt="Aurix Engine" />
         </a>
         <br />
         <i>Sophisticated core engine architecture.</i>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/awanmh/evolution-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=evolution-api&theme=radical&show_owner=true" alt="Evolution API" />
+          <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=awanmh&repo=evolution-api&theme=radical&show_owner=true" alt="Evolution API" />
         </a>
         <br />
         <i>Open-source WhatsApp integration API.</i>
@@ -54,14 +54,14 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/awanmh/stockbit-appsec-sim">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=stockbit-appsec-sim&theme=radical&show_owner=true" alt="AppSec Sim" />
+          <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=awanmh&repo=stockbit-appsec-sim&theme=radical&show_owner=true" alt="AppSec Sim" />
         </a>
         <br />
         <i>Application Security Simulation & Research.</i>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/awanmh/Stokku.ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=Stokku.ai&theme=radical&show_owner=true" alt="Stokku.ai" />
+          <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=awanmh&repo=Stokku.ai&theme=radical&show_owner=true" alt="Stokku.ai" />
         </a>
         <br />
         <i>AI-powered Stock tracking & analysis system.</i>
@@ -88,10 +88,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awanmh&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=awanmh&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=awanmh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanmh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=awanmh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
