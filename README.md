@@ -1,136 +1,97 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hi%20There!%20I'm%20Setiawan%20Muhammad%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Awan%20M.H.&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Quant%20%7C%20Security%20Researcher&descAlignY=55&descAlign=60&animation=fadeIn" alt="Header" />
+</div>
 
-<!-- Terminal Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2700&pause=600&color=FFD200&center=true&vCenter=true&width=1000&lines=%24+whoami;Informatics+Student+%7C+Backend+Developer+%7C+Cyber+Security;Learning+Every+Day+and+Building+Cool+Stuff!;Welcome+to+my+GitHub+Profile+🤝" />
-</p>
-
-<!-- Floating Mascots -->
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="90"/>
-</p>
-
-<!-- Socials -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/setiawan-muhammad"><img src="https://img.shields.io/badge/LinkedIn-F7971E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/awanmh"><img src="https://img.shields.io/badge/GitHub-FFD200?style=for-the-badge&logo=github&logoColor=black"/></a>&nbsp;
-  <a href="mailto:setiawanmaulana6@gmail.com"><img src="https://img.shields.io/badge/Email-F7971E?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.instagram.com/aawanmh_/"><img src="https://img.shields.io/badge/Instagram-FFD200?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awanmh&label=Visitors&color=F7971E&style=for-the-badge" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Machine+Learning;Quantitative+Development;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</h3>
 
 ---
 
-## 🚀 About Me
-
-I’m a 5th-semester Informatics student at **Telkom University**, focusing on **backend engineering**, **cyber security**, and **cloud computing**.  
-I love building scalable systems, exploring ethical hacking, and constantly learning new technologies.
-
-I strongly believe in **learning by building**, experimenting, and breaking things to understand them better.
-
-My porto :
-https://setiawan-muhammad.netlify.app/
+### 👨‍💻 About Me
+- 🔭 I’m currently working on advanced AI engines and Quantitative systems.
+- 🌱 I’m currently exploring **RAG platforms, AppSec, and High-Frequency Trading architectures**.
+- 💼 My domains: **Artificial Intelligence, FinTech (Quantitative Systems), & Application Security**.
+- 📫 How to reach me: [LinkedIn / Email]
 
 ---
 
-## ⚡ Tech Stack
-
-<p align="center">
-
-### **Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,go,php,laravel,nodejs,express&theme=light" />
-
-### **Frontend & Mobile**
-<img src="https://skillicons.dev/icons?i=react,vue,flutter,dart,html,css,javascript,tailwindcss&theme=light" />
-
-### **Database**
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
-
-### **DevOps & System**
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,jenkins,git,azure,github&theme=light" />
-
-### **Tools & Security**
-<img src="https://skillicons.dev/icons?i=python,vscode,linux,bash,nmap&theme=light" />
-<img src="https://img.shields.io/badge/Burp%20Suite-F86A00?style=for-the-badge&logo=burpsuite&logoColor=white" height="35"/>
-
-</p>
-
----
-
-## 🌗 GitHub Metrics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=awanmh&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awanmh&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awanmh&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awanmh&theme=react-dark&bg_color=0D1117&color=FFD200&line=F7971E&point=FFFFFF&hide_border=true" width="95%" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Belanjaku (E-commerce Web App)
-A web-based e-commerce platform inspired by Tokopedia/Shopee.  
-Includes reviews, dynamic filters, multi-tier promotions, and shipping logic.
-
-**Tech:** `React.js` `Node.js` `Express.js` `PostgreSQL` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔒 PortalSantriCerdas (Attendance & Security System)
-Attendance system using **Face ID (Webcam)** + GPS tracking + Geofencing.
-
-**Tech:** `Laravel` `React.js` `Face Recognition` `Tailwind CSS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📋 Value Management Web App (Trello Clone)
-Trello-like task board using Java Spring Boot REST API.
-
-**Tech:** `Java` `Spring Boot` `React.js` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐞 Ethical Hacking & Bug Bounty
-Active in HackerOne, Intigriti, YesWeHack.  
-Finds SQLi, XSS, CSRF, business logic flaws, and more.
-
-**Tools:** `Burp Suite` `OWASP ZAP` `Nmap` `SQLmap` `Scripting`
-
-</td>
-</tr>
-</table>
+### 🏆 Premium Projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/awanmh/velox-quant-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=velox-quant-engine&theme=radical&show_owner=true" alt="Velox Quant Engine" />
+        </a>
+        <br />
+        <i>High-performance quantitative trading engine.</i>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/awanmh/veritas-rag-platform">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=veritas-rag-platform&theme=radical&show_owner=true" alt="Veritas RAG Platform" />
+        </a>
+        <br />
+        <i>Advanced RAG (Retrieval-Augmented Generation) Platform.</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/awanmh/Aurix-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=Aurix-engine&theme=radical&show_owner=true" alt="Aurix Engine" />
+        </a>
+        <br />
+        <i>Sophisticated core engine architecture.</i>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/awanmh/evolution-api">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=evolution-api&theme=radical&show_owner=true" alt="Evolution API" />
+        </a>
+        <br />
+        <i>Open-source WhatsApp integration API.</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/awanmh/stockbit-appsec-sim">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=stockbit-appsec-sim&theme=radical&show_owner=true" alt="AppSec Sim" />
+        </a>
+        <br />
+        <i>Application Security Simulation & Research.</i>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/awanmh/Stokku.ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=awanmh&repo=Stokku.ai&theme=radical&show_owner=true" alt="Stokku.ai" />
+        </a>
+        <br />
+        <i>AI-powered Stock tracking & analysis system.</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=120&section=footer" width="100%"/>
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,go,cpp,rust,typescript,java&perline=6" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,kubernetes,aws,gcp&perline=6" />
+  </p>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awanmh&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awanmh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanmh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
