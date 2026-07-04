@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Awan%20M.H.&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Quant%20%7C%20Security%20Researcher&descAlignY=55&descAlign=60&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Setiawan%20Muhammad&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Quant%20%7C%20Security%20Researcher&descAlignY=55&descAlign=60&animation=fadeIn" alt="Header" />
 </div>
 
 <h3 align="center">
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on advanced AI engines and Quantitative systems.
 - 🌱 I’m currently exploring **RAG platforms, AppSec, and High-Frequency Trading architectures**.
 - 💼 My domains: **Artificial Intelligence, FinTech (Quantitative Systems), & Application Security**.
-- 📫 How to reach me: [LinkedIn / Email]
+- 📫 How to reach me: setiawanmuhammad3@gmail.com
 
 ---
 
